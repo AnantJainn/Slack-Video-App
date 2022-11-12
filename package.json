@@ -9,5 +9,17 @@
   "license": "MIT",
   "dependencies": {
     "agora-app-builder-cli": "2.0.2"
-  }
+  },
+  "description": "== Agora App Builder == Instructions to run your project: 1. Open a terminal inside this folder 2. Run - npm i && npm start (You need NodeJS v16.x installed on your system) 3. Select install through the CLI menu 4. Build for any supported platform",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnantJainn/Slack-Video-App.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/AnantJainn/Slack-Video-App/issues"
+  },
+  "homepage": "https://github.com/AnantJainn/Slack-Video-App#readme"
 }
